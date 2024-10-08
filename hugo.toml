@@ -1,0 +1,35 @@
+baseURL = 'http://www.tanith.es/'
+languageCode = 'en-us'
+title = 'I.E.S. Vietnam'
+theme = "PaperMod"
+
+paginate = 5
+
+
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Quién Soy"
+    url = "/quien-soy/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Trayectoria Profesional"
+    url = "/trayectoria-profesional/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Trayectoria Académica"
+    url = "/trayectoria-academica/"
+    weight = 5
+
