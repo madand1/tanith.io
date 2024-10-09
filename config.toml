@@ -1,4 +1,4 @@
-baseURL = 'http://www.tanith.es/'
+baseURL = 'https://liveinvietnam.netlify.app/'
 languageCode = 'en-us'
 title = 'I.E.S. Vietnam'
 theme = "PaperMod"
